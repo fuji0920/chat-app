@@ -170,7 +170,11 @@ GEM
     responders (3.0.1)
       actionpack (>= 5.0)
       railties (>= 5.0)
+<<<<<<< Updated upstream
     rspec-core (3.9.3)
+=======
+    rspec-core (3.9.2)
+>>>>>>> Stashed changes
       rspec-support (~> 3.9.3)
     rspec-expectations (3.9.2)
       diff-lcs (>= 1.2.0, < 2.0)
